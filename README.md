@@ -1,4 +1,4 @@
-[![Build Status]https://travis-ci.org/arnorbry/stringCalcWeb.png]https://travis-ci.org/arnorbry/stringCalcWeb
+[![Build Status](https://travis-ci.org/arnorbry/stringCalcWeb.png)](https://travis-ci.org/arnorbry/stringCalcWeb)
 
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
